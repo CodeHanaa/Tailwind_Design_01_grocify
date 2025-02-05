@@ -1,0 +1,9 @@
+/* Start Rules */
+body {
+    font-family: "Roboto", serif;
+    background-image: url(../grocify_img/Image.png);
+}
+.parent .images {
+    right: 1%;
+}
+/* End Rules */
